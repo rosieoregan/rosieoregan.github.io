@@ -427,6 +427,10 @@ button{
         font-size: .8em;
     }
 
+    .project-back-descr{
+        display: none;
+    }
+
 }
 
 @media only screen 
@@ -517,6 +521,11 @@ button{
     .project-tags, .project-info{
         font-size: .8em;
     }
+
+    .project-back-descr{
+        display: none;
+    }
+
 }
 
 
@@ -574,6 +583,10 @@ button{
     .project-content{
         margin-left: 16%;
         padding-top: 160px;
+    }
+    
+   .project-back-descr{
+        display: none;
     }
 
 }
