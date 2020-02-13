@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'Karla', sans-serif;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 
 #container{
@@ -142,6 +142,8 @@ body{
     font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
+    margin: 0;
+    padding-bottom: 3px;
 }
 
 .project-back-descr p{
@@ -427,8 +429,12 @@ button{
         font-size: .8em;
     }
 
-    .project-back-descr{
+    /* .project-back-descr{
         display: none;
+    } */
+
+    .project-back-descr{
+        font-size: .7em;
     }
 
 }
@@ -519,11 +525,15 @@ button{
     }
     
     .project-tags, .project-info{
-        font-size: .8em;
+        font-size: .7em;
     }
 
-    .project-back-descr{
+    /* .project-back-descr{
         display: none;
+    } */
+
+    .project-back-descr{
+        font-size: .8em;
     }
 
 }
@@ -585,9 +595,9 @@ button{
         padding-top: 160px;
     }
     
-   .project-back-descr{
+   /* .project-back-descr{
         display: none;
-    }
+    } */
 
 }
 
