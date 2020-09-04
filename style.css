@@ -46,30 +46,16 @@ body{
     justify-content: center;
 }
 
-#project-0{
-    grid-row: span 3;
-}
-
-#project-1{
+#project-9{
     grid-row: span 5;
 }
 
-#project-2{
-    grid-row: span 4;
-}
-
-#project-3{
-    grid-row: span 4;
-
-}
-
-#project-4{
-    grid-row: span 4;
-}
-
-#project-5{
+#project-8{
     grid-row: span 3;
+}
 
+#project-7{
+    grid-row: span 4;
 }
 
 #project-6{
@@ -77,12 +63,26 @@ body{
 
 }
 
-#project-7{
+#project-5{
     grid-row: span 4;
 }
 
-#project-8{
+#project-4{
+    grid-row: span 4;
+
+}
+
+#project-3{
+    grid-row: span 4;
+
+}
+
+#project-2{
     grid-row: span 3;
+}
+
+#project-1{
+    grid-row: span 2;
 }
 
 /* project */
