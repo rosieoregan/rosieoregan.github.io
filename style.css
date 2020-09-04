@@ -339,6 +339,12 @@ button{
     padding: 2% 0;
 }
 
+.project-photos video{
+    max-width: 900px;
+    width: 100%;
+    padding: 2% 0;
+}
+
 /* responsive */
 
 @media only screen 
