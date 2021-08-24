@@ -40,7 +40,7 @@ body{
     padding-top: 160px;
     padding-left: 10px;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(15, 75px);
+    grid-template-rows: repeat(18, 75px);
     grid-gap: 30px;
     width: 70%;
     justify-content: center;
@@ -56,33 +56,40 @@ body{
 }
 
 #project-9{
-    grid-row: span 3;
+    grid-row: span 4;
 }
 
 #project-8{
     grid-row: span 3;
 }
 
+#project-7a{
+    grid-row: span 3;
+
+}
+
 #project-7{
     grid-row: span 5;
 }
+
 
 #project-6{
     grid-row: span 4;
 
 }
 
+
 #project-5{
     grid-row: span 4;
 }
 
 #project-4{
-    grid-row: span 4;
+    grid-row: span 5;
 
 }
 
 #project-3{
-    grid-row: span 3;
+    grid-row: span 5;
 
 }
 
@@ -91,7 +98,7 @@ body{
 }
 
 #project-1{
-    grid-row: span 2;
+    grid-row: span 3;
 }
 
 /* project */
