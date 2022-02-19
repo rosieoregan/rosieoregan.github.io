@@ -356,12 +356,14 @@ button{
     text-align: center;
 }
 
-#iframe{
-    /* max-width: 1400px; */
+.gif{
     width: 90%;
+    text-align: center;
+}
+.gif img{
+    /* max-width: 1400px; */
+    width: 260px;
     padding: 2% 0;
-    text-align:center;
-
 }
 
 .project-photos video{
