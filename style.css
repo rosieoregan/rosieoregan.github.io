@@ -353,6 +353,15 @@ button{
     /* max-width: 1400px; */
     width: 90%;
     padding: 2% 0;
+    text-align: center;
+}
+
+#iframe{
+    /* max-width: 1400px; */
+    width: 90%;
+    padding: 2% 0;
+    text-align:center;
+
 }
 
 .project-photos video{
