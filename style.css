@@ -1,7 +1,8 @@
 body{
     margin: 0;
-    font-family: 'Karla', sans-serif;
-    line-height: 1.2;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.4    ;
 }
 
 #container{
@@ -172,7 +173,7 @@ body{
     color: black;
     font-size: 16px;
     font-weight: bold;
-    font-family: 'Karla';
+    font-family: 'Work Sans';
     border: none;
     cursor: pointer;
     padding: 0;
@@ -194,7 +195,7 @@ body{
 .dropdown-content{
     display: none;
     font-weight: bold;
-    font-family: 'Karla';
+    font-family: 'Work Sans';
     position: absolute;
     box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.1);
     z-index: 1;
@@ -208,7 +209,7 @@ body{
     display: block;
     border: none;
     font-size: 16px;
-    font-family: 'Karla';
+    font-family: 'Work Sans';
     outline: none;
     background-color: white;
 }
@@ -287,7 +288,7 @@ body{
 form{
     padding-top: 180px;
     display: block;
-    font-family: 'Karla';
+    font-family: 'Work Sans';
     width: 80%;
     max-width: 400px;
 }
@@ -303,7 +304,7 @@ form input{
 
 button{
     font-size: 16px;
-    font-family: 'Karla';
+    font-family: 'Work Sans';
     background-color: whitesmoke;
     outline: none;
 }
